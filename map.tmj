@@ -60,6 +60,12 @@
          "id":63,
          "name":"Kachelebene 12",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"JitsiRoom",
+                 "type":"string",
+                 "value":"my meeting room"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":31,
@@ -587,6 +593,10 @@
          "tilecount":850,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "firstgid":2677,
+         "source":":\/automap-tiles.tsx"
         }],
  "tilewidth":32,
  "type":"map",
